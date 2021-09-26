@@ -2,6 +2,7 @@
    "folders": [
        { "path": "javascript-react-app/" },
        { "path": "rust-hello-world/" },
+       { "path": "c-hello-world/" },
        { "path": "java-project/" }
    ]
 }
