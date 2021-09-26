@@ -1,6 +1,6 @@
 {
    "folders": [
-      { "path": "projects/javascript-react-app/" },
-      { "path": "projects/java-project/" }
+      { "path": "javascript-react-app/" },
+      { "path": "java-project/" }
    ]
 }
